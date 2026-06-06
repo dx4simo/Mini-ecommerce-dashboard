@@ -6,6 +6,7 @@ interface Props {
   onChange: (category: string) => void;
 }
 
+
 export default function CategoryFilter({ categories, selected, onChange }: Props) {
   return (
     <div className={styles.categoryButtons}>
