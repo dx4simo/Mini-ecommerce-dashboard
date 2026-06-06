@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description: "Product dashboard built with Next.js and Firebase",
 };
 
+
 export default function RootLayout({
   children,
 }: {
