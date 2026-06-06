@@ -32,6 +32,7 @@ export async function getAllProducts(): Promise<Product[]> {
   });
 }
 
+
 export type ProductInput = {
   name: string;
   category: string;
