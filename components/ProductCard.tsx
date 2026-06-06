@@ -8,6 +8,7 @@ interface Props {
   product: Product;
 }
 
+
 export default function ProductCard({ product }: Props) {
   const { addToCart, items } = useCart();
 
