@@ -14,6 +14,7 @@ export default function ProductCard({ product }: Props) {
 
   const inCart = items.some((item) => item.id === product.id);
   const isOutOfStock = product.stock === 0;
+  
 
   return (
     <div className={styles.card}>
