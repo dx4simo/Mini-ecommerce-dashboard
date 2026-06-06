@@ -6,7 +6,6 @@ The project simulates a simple e-commerce product dashboard. Users can browse pr
 
 This project was built mainly for learning and portfolio practice.
 
-
 ---
 
 ## Screenshot
