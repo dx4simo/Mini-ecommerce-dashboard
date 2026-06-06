@@ -5,6 +5,7 @@ interface Props {
   onChange: (value: string) => void;
 }
 
+
 export default function SearchBar({ value, onChange }: Props) {
   return (
     <input
