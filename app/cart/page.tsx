@@ -13,6 +13,7 @@ export default function CartPage() {
     clearCart,
     totalPrice,
   } = useCart();
+  
 
   if (items.length === 0) {
     return (
