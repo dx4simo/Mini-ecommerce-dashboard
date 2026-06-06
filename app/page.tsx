@@ -9,6 +9,7 @@ import SortSelect from "@/components/SortSelect";
 import { Product } from "@/types/product";
 import styles from "@/styles/Home.module.css";
 
+
 export default function HomePage() {
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
