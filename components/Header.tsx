@@ -6,6 +6,7 @@ import styles from "@/styles/Header.module.css";
 
 export default function Header() {
   const { totalItems } = useCart();
+  
 
   return (
     <header className={styles.header}>
