@@ -80,8 +80,6 @@ The admin dashboard is protected with Firebase Authentication.
 https://e-Commerce.islamalbadawy.com
 
 ---
-
-```
 Demo credentials:
 
 ```text
