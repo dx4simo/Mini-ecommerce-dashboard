@@ -74,12 +74,14 @@ This project was built mainly for learning and portfolio practice.
 
 The admin dashboard is protected with Firebase Authentication.
 
-```
+---
 ## You can visit it:
+
 https://e-Commerce.islamalbadawy.com
 
 ---
 
+```
 Demo credentials:
 
 ```text
